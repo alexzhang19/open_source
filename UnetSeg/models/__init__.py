@@ -4,9 +4,8 @@
 """
 @File      : __init__.py
 @Author    : alex
-@Date      : 2021/3/5
+@Date      : 2021/1/24
 @Desc      : 
 """
 
-if __name__ == "__main__":
-    pass
+from .unet import UNet
